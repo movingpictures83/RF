@@ -1,0 +1,2 @@
+Prefix plugins/RF/example/
+Plugin RF inputfile Merged-update_hourly.csv outputfile .
